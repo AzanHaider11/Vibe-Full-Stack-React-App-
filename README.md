@@ -4,6 +4,13 @@ A fuly functional social media app where users can login post their own messages
 
 This Full-Stack application was done using react Next.js as front end and Firebase as the backend database.
 
+## How it looks
+
+![image](https://user-images.githubusercontent.com/102554519/216779678-73ce5473-470b-4b9c-bff9-8f29ee752585.png)
+![image](https://user-images.githubusercontent.com/102554519/216779692-fb2ed12c-841c-4b0a-9360-cc2276a3452b.png)
+![image](https://user-images.githubusercontent.com/102554519/216779698-189afa69-6419-49cf-817e-e290399a0584.png)
+
+
 ## Getting Started
 
 First, run the development server:
