@@ -55,8 +55,10 @@ export default function Details(){
 
 
     return(
-        <div>
+        <div >
+            <div className="bg-white">
             <Message {...routeData}></Message>
+            </div>
             <div className="my-4">
                 <div className="flex">
                     <input onChange={(e) => setMessage(e.target.value)} type="text" value={message} placeholder = "Send a message" 
