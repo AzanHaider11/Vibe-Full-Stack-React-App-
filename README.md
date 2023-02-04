@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## What is it?
+
+A fuly functional social media app where users can login post their own messages with edit and delete functionalities. Other users can also comment on posts.
+
+This Full-Stack application was done using react Next.js as front end and Firebase as the backend database.
 
 ## Getting Started
 
