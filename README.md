@@ -6,9 +6,11 @@ This Full-Stack application was done using react Next.js as front end and Fireba
 
 ## How it looks
 
-![image](https://user-images.githubusercontent.com/102554519/216779678-73ce5473-470b-4b9c-bff9-8f29ee752585.png)
-![image](https://user-images.githubusercontent.com/102554519/216779692-fb2ed12c-841c-4b0a-9360-cc2276a3452b.png)
-![image](https://user-images.githubusercontent.com/102554519/216779698-189afa69-6419-49cf-817e-e290399a0584.png)
+
+
+https://user-images.githubusercontent.com/102554519/216787106-701e7c58-27f7-458b-a0e3-8b5b78200cd7.mp4
+
+
 
 
 ## Getting Started
