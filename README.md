@@ -1,6 +1,6 @@
 ## What is it?
 
-A fuly functional social media app where users can login post their own messages with edit and delete functionalities. Other users can also comment on posts.
+A fully functional social media app where users can login post their own messages with edit and delete functionalities. Other users can also comment on posts.
 
 This Full-Stack application was done using react Next.js as front end and Firebase as the backend database.
 
